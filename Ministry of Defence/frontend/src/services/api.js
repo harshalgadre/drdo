@@ -2,7 +2,7 @@
  * API Service for MoD Secure Document Distribution & Attribution System
  */
 
-const API_BASE = '/api';
+const API_BASE = `${import.meta.env.VITE_API_URL || 'http://localhost:8000'}/api`;
 
 export const api = {
   // System status
