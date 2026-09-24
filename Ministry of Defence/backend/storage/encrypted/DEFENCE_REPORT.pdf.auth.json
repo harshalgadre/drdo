@@ -1,0 +1,29 @@
+{
+  "document_id": "DOC-2026-001",
+  "document_name": "DEFENCE_REPORT.pdf",
+  "document_hash": "CDC5E22B37564B76A7B0A568B310EB37EBB1EC65E2589368D91A005A252747B0",
+  "authorizations": {
+    "R001": {
+      "recipient_id": "R001",
+      "recipient_name": "Alice",
+      "kem_ciphertext": "vc+v0qNTi3/MvGosX+uCD3eZYIfaJgPaveRjfxepwEh3nUos5fFa0U5cQjRyOxhSaCna75GX6/s+oTgiYDR9qt6P3gmeQe0kUJyMSEbo6oXhYaamFs/hcolHQ3fyU0eK8nKNCpc+G0OCvHt2vV18dgmbaRG6gV4qbPGe17rAOR3tBxW/pMN+F15vVg4GYUaRI3KHtqZO/HjNJQYh2G7Wv4IP+uiZ2bRoe4z+8gbGLszhsWZPFB4+TMhY82KLOkeGBX98rOYFaPPUBS7uLsdocncPkgMAW8+MtqTllI2Q7yMsut+Pfgza0CJ9OHrfDKEWMymElwVX9hu+LlFk4jbHioK4qvOxtIaVraAJAPvh9z0MCi8gXnMrepBhK7mq9V1v3Th3FQTYVTB7805gvPQSnDWvwaAxok119Slw9/Pi3lAjjEuT/DaIqnjLTt5lvb97uZsXOghwUAfMca2wxKxIv53JZwKnMHSfB7a488ocSu+LkDL0X0MEj9fiuPsYsUTqNDo7WfLzMkSzdk64s7W2KVszZXv0J1v+VL0BDHO2Q3ZCQskOlIeXNu3RetV0Y4w1+2Hdhb7guxbU0uzn9zT3FQwMw877qleSFpXL2Rbk7oSyvSvR4fvmfa0z6nVSnwh+81bQUrHdIHLcvaEQxuPRnqsDi/E3njvBqDMRgL4682dt3rGwv1ms6iz0Uma8IOKwrjrDnuh5PsrjOp9fVmj62PGOdu5C6ZWUYWxREKSa3TNyEVJRKhdz+SlEG1KAf15TD97hGAsOMCWIHM6LIdbavwifnQRWigZP4CHrLEVHx3sh7KvdRPLjOzqHy3qkSKKL6SnpgxPGVO7z5xQ9jLCMt3ubHJx7VJ0CSqKVeSiA+7thi42dO0TkhiULnJE4ocwJrsogUVHUNOU8jg/a6lLA5VHBTmWd1VFeLkTlvUKXspVGyuC2eXNkgDRpmS20bSEjkrGaOJdXMr0wfLrARdaCeGRUEGC3yrnC12rg2EWccEoTIxwIZ/PZ38bj7XIilGMf",
+      "wrapped_key": "mq6NWolvEVmyw5aIqXH0OWqfKNKvj05pkXUhnkw7ekI=",
+      "authorized_at": "2026-09-24 11:53:10"
+    },
+    "R002": {
+      "recipient_id": "R002",
+      "recipient_name": "Bob",
+      "kem_ciphertext": "7yBYlNA7CndwqnNTaHBMZiruFRuUEwmD+JvULdgTTJjt/AgWutT92SH3ZCaljouRnJMf646lxiZ5Ho7Pwx9KBetzkKv7ukz+U7GzaI5gRPb3GsDeG+6ipva/G76cLL1NXpjm5pm3EaGePODFU8h2uOonnTFXShYcUYoJVoNSn9cnuGMblN0lmZhRivS2kqHTiED9rxaV7z2SonTp+QfOJNyMqE2iZ/XF6DgWz3THURMnfmpA4GTaeWK1jyxUNwXLTykcwPT0/cFAIJhAp5hxNivnkRSZCc2ruqAnEXeXuTyckJxkd2vKF+gKlODGqf5o1fR3HFkj0/pbnEnIAIIKGUuTI0uge3vI5QqfCYqUElBKa4SYVY5EI3GNTp7h60CjXUd0buyR533poVkeksna7qbgEuuQJpEo3qLJdZtusGf4rUz9in0UDAlkYHKWKuhm+WWB7vZLTnNFzMWARFCWaNlNT47b3U12wtlD/g40wB9HFRc1Y60vFdV8voyOMEJHb0u6YMvHcXUA4s0RPbU64imdSmeCOI3lS/HkXcJOoya5MaTV7i+HteTA1zQ0BxO2kTPCAhEGX/GnDAtLGGRgEz9azKFOAIM38qpumTU++bJIfst+FNwHwSW1Tujj/7UYQRkkFFooHA6uMgy2O2/bnH35VtVqOZM1MwbPI5CpLVz8f0VTvWQpiu/f3fD9hvMkpNV11ErRfMrcHuBtvhop+dDw0z8peMXJsRzZQeccLEu7maFEKBFKleUkX8Qplvy4ZJ/n5mvljySx7qMA5AYHfZyWOcTf/PJMsRiB5cjCyEkLMETuIxaizmtvwzTnw0st2FsdnPrz2CaFB4MqFqVGHKvyq/vPH4/IBKSisZ3oKCFq1zIDZ4FIFkYPEjaV/vsQZqr+bBtCKXFdJlFmD0GJXMXps/zoEki9kvxaz5r8ctf7A5sw8o9fRAHcoCmM2aYdHRN4GAvNIqldeBRrm4U+P8r8SIlOYczF29jLABZztx2NwoEPT2nt/+/Qu+z5fR8a",
+      "wrapped_key": "tB04mSY3uopskI1Zt8FLOOIlsYYaWi/Vms5bBzogHzw=",
+      "authorized_at": "2026-09-24 11:53:10"
+    },
+    "R003": {
+      "recipient_id": "R003",
+      "recipient_name": "Charlie",
+      "kem_ciphertext": "NvZqDhP9EnUGsIqolNXj+PZsF0wWJq3SnsYdwB+cqL7KJ4to3uYZMbSJhyj4EhJvxj66kK9EztWMy52BOwyN6c+IqaoZnAhR3jNW/1tTWgmUAMSh68rTQbjt8GV0fj+cA+mkkmCyc0YXcI97Pql4YWOxF2WobM/W3dJa8kpetFXM8sPBaOTVf8TDa5koK6QX7VwmD+Uwx7kAneXiy4gdaq8Wdh96zgoVD5d/3DVsW3s9Rtalv34+Omd84bV2Mjo/+AGztbTygPJjyW9QfigaThZ5n38KAw6ab2kfXSF8HAZ6b7VKxqZ+6ZajspJ36yt9CiCWmYI0pOStWjhvbDwMFNEcXQaFAwCvaCmaMetco7iLRvDWj3N5fE8MntakBLW6gHmwOh7Xk6iU0tH1cnBqf+iOUQl/JqkodzcWtGmHZC1chvbDlcJ0f+1/SYvumiKTs7m6gYYLm1QjwQwHKGp61DAIjnhIqALgFJwjcNuvheHaJtPdcRFGFN/BYz3QaJHaoE5NUaWXNMDGImJOXupiT/EQb42VFoX8M4I3viL11yQOnk8iYrwKD1ef3XEyhFSr+LCSwrz982FS8y4rjt0yJLWDG8w4NPA3AipCu3Qm6SXHC0+QzBbqFArtENFQJMKhuzyl57GjgKywO28hWdFqI0hoh5y7+/vGJCzUQRAnnyJgOnjDghpfOSb0FXhoWOa8ragD50xSZqhAx28sDiu5QJAYltPWouZyUCjh2jj6n+wwksU4XWE3HFkhMHDkgVewsAZyIo9zysfPhUaahnckZtuTNSgJGgRmAhiwtOBS8pkgEuKfjc7GXls8v90GK07n83a3VJ2Cb7RD/eK8jtfjA51OKG1+LquDFTliB6T94ItxDMzeS/PkJZFpMD8N9tNU5dcBMyphjXP/ylOqBbeVP/tFQp37uRn2bZdAD+ntcKEm/yZ6pzE1XNXYbqGJwJoO+id49wa53IHXlNThF/lPO6sjynIOX0Nxr3RzDHPC36NwZ2uriFK3+a7Dw9ZzdzJW",
+      "wrapped_key": "NF2d3+AHqFXhywL2hSgmYOlTAOyJjtaFnqTNv7CIAv8=",
+      "authorized_at": "2026-09-24 11:53:10"
+    }
+  },
+  "distributed_at": "2026-09-24 11:53:10"
+}

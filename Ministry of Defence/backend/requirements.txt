@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+cryptography
+kyber-py
+dilithium-py
+reportlab
+pypdf
+Pillow
